@@ -9,7 +9,7 @@ class Test extends Component {
         console.log("test response:", resp)
     }
     render(){
-        console.log('hi')
+        
         return(
             <h1>TEST COMPONENT</h1>
         )
